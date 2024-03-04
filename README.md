@@ -169,7 +169,6 @@ pip install https://github.com/explosion/spacy-models/releases/download/en_core_
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
